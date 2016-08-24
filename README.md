@@ -5,4 +5,4 @@ a bunch of ideas by me on how to create microservices and manage microservice sy
 
 (and my sort-of attempts to standardize the process for myself)
 
-### [idea drafts](/issues)
+### [idea drafts](https://github.com/SEAPUNK/microservice-ideas/issues)
